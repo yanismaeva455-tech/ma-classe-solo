@@ -1,0 +1,1 @@
+"""Bibliothèque de fonctions partagées"""
